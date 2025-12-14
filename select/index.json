@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "All My Favorite Songs（feat. AJR）",
+  "base_artist": "Weezer",
+  "createdAt": "2025-12-14T03:58:03.916150Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "All My Favorite Songs (feat. AJR)",
+      "artist": "Weezer",
+      "has_synced": true,
+      "path": "select/01_All_My_Favorite_Songs_(feat._AJR)_Weezer.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "All My Favorite Songs (feat. AJR)",
+      "artist": "Weezer, AJR",
+      "has_synced": true,
+      "path": "select/02_All_My_Favorite_Songs_(feat._AJR)_Weezer,_AJR.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "All My Favorite Songs (feat. AJR)",
+      "artist": "Weezer",
+      "has_synced": true,
+      "path": "select/03_All_My_Favorite_Songs_(feat._AJR)_Weezer.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "All My Favorite Songs (feat. AJR)",
+      "artist": "Weezer",
+      "has_synced": true,
+      "path": "select/04_All_My_Favorite_Songs_(feat._AJR)_Weezer.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Weezer - All My Favorite Songs (feat. AJR)",
+      "artist": "Andy Eslick",
+      "has_synced": true,
+      "path": "select/05_Weezer_-_All_My_Favorite_Songs_(feat._AJR)_Andy_Eslick.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "All My Favorite Songs (feat. AJR)",
+      "artist": "V.A.",
+      "has_synced": true,
+      "path": "select/06_All_My_Favorite_Songs_(feat._AJR)_V.A..lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "All My Favorite Songs (feat. AJR)",
+      "artist": "AJR",
+      "has_synced": true,
+      "path": "select/07_All_My_Favorite_Songs_(feat._AJR)_AJR.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "All My Favorite Songs (feat. AJR)",
+      "artist": "Weezer, AJR",
+      "has_synced": true,
+      "path": "select/08_All_My_Favorite_Songs_(feat._AJR)_Weezer,_AJR.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "All My Favorite Songs (Feat. Ajr)",
+      "artist": "Weezer, Ajr",
+      "has_synced": true,
+      "path": "select/09_All_My_Favorite_Songs_(Feat._Ajr)_Weezer,_Ajr.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "All My Favorite Songs (feat. AJR)",
+      "artist": "Weezer\u0000AJR",
+      "has_synced": true,
+      "path": "select/10_All_My_Favorite_Songs_(feat._AJR)_Weezer\u0000AJR.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "All My Favorite Songs (feat. AJR)",
+      "artist": "Weezer feat. AJR",
+      "has_synced": true,
+      "path": "select/11_All_My_Favorite_Songs_(feat._AJR)_Weezer_feat._AJR.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "All My Favorite Songs",
+      "artist": "Weezer",
+      "has_synced": false,
+      "path": "select/pl_01_All_My_Favorite_Songs_Weezer.txt"
+    }
+  ]
+}
